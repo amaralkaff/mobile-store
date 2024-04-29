@@ -1,4 +1,4 @@
-### Mobile Store API Documentation ()
+### Mobile Store API Documentation ( RESTful API project for the Backend Developer Task: 10Xers )
 
 ---
 
