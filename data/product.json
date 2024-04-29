@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Phone Model X",
+      "description": "Latest model of Phone X",
+      "price": 999.99,
+      "stock": 10,
+      "imageUrl": "http://example.com/x.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Phone Model Y",
+      "description": "Affordable Phone Y",
+      "price": 699.99,
+      "stock": 15,
+      "imageUrl": "http://example.com/y.jpg"
+    },
+    {
+      "id": 3,
+      "name": "New Phone Model Z",
+      "description": "Innovative design with state-of-the-art features.",
+      "price": 1099.99,
+      "stock": 25,
+      "imageUrl": "http://example.com/z.jpg"
+    }
+  ]
+}
