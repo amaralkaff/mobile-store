@@ -1,4 +1,5 @@
 ### Mobile Store API Documentation ()
+
 ---
 
 ## Introduction
@@ -9,10 +10,12 @@ This documentation outlines the RESTful API for the Mobile Store, an online plat
 
 ### Prerequisites
 
-- Node.js
-- PostgreSQL
-- Sequelize
+- Programming Language: Node.js
+- Web Framework: Express.js
+- Database: PostgreSQL
+- ORM: Sequelize
 - npm or yarn installed
+- Authentication: JWT (JSON Web Tokens)
 
 ### Installation
 
